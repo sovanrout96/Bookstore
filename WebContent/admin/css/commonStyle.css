@@ -1,0 +1,48 @@
+body{font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;letter-spacing: 1px;background-color: #f5f5f5;}
+.well{background-color: white;}
+.navbar{border-radius: 0px;border:unset;text-transform: capitalize;}
+.footerborder{height:5px;background: rgb(53, 160, 65);}
+.footer{background-color: #1a1919;}.footer h3{color: #dacece;margin-top: 10px;margin-bottom: 20px;font-weight: 400;letter-spacing: 1px;font-size: 18px;text-transform: uppercase;}
+.footer .fa {margin-top: 9px;font-size: 16px;text-align: center;line-height: 29px;width: 30px;height: 30px;border-radius: 15px;}
+.footer .fa-facebook{background: #527dbd;color: #ececec;}
+.footer .fa-twitter{background: #1da1f2;color: #ececec;}
+.footer .fa-google-plus{background: #dd4b39;color: #ececec;}
+.footer .fa-linkedin{background: #0077b5;color: #ececec;}.footer a{text-decoration: none;}
+.footer a #footerfacebook{color: #527dbd;font-size: 14px;margin-left: 15px;letter-spacing: 1px;}
+.footer a #footertwitter{color: #1da1f2;font-size: 14px;margin-left: 15px;letter-spacing: 1px;}
+.footer a #footergoogle{color: #dd4b39;font-size: 14px;margin-left: 15px;letter-spacing: 1px;}
+.footer a #footerlinkedin{color: #0077b5;font-size: 14px;margin-left: 15px;letter-spacing: 1px;}
+.footer h4 a{font-size: 14px;color:gray;letter-spacing: 1px;}.footer h4 a:hover{color:#dacece;}
+.footer .col-sm-3{margin-top:20px;height:250px;margin-bottom: 30px}
+.footer .footerservice{margin-top:20px;margin-bottom: 30px}
+.footer .footerservice h5 a{font-size: 16px;color:gray;letter-spacing: 1px;margin-bottom: 10px;margin-top: 10px !important;}
+.footer .fa-map-marker {color: #dd4b39;border: 1px solid #dd4b39;}
+.footer .fa-map-marker:hover {background: #dd4b39;color: #ececec;}
+.footer .fa-phone {color: #337ab7;border: 1px solid #337ab7;}
+.footer .fa-phone:hover {background: #337ab7; color: #ececec;}
+.footer .fa-envelope {color: #f907ee;border: 1px solid #f907ee;}
+.footer .fa-envelope:hover {background: #f907ee; color: #ececec;}
+.subfooter{background:black;}
+.subfooter .container label{margin-bottom: 20px;margin-top: 20px;color:gray;font-size:14px;letter-spacing: 1px;font-weight: 400;}
+.subheading{margin-top: -5px;margin-bottom: 10px;color:green;font-size: 14px;}
+.heading{color: #121111e6;
+margin-top: 10px;
+font-weight: bold;
+margin-bottom: 20px;
+font-size: 25px;}
+.pageNameHeading{margin-top: 20px;margin-bottom: 20px;}.pageNameHeading{color:black;font-size: 12px;}
+p{text-align: justify;}
+#myButton{background: rgb(53, 160, 65);
+color: white;
+border-radius: 0px;
+border: 1px solid rgb(53, 160, 65);
+font-size: 18px;}
+#myButton2{
+border-color: 2px solid #ccc;
+color: #333;
+border-radius: 0px;
+font-size: 18px;}
+.glyphicon-shopping-cart,.glyphicon-play{font-size: 14px;}
+.mainSection .form-control{border-radius: 0px;height:45px;}
+.panel-default .panel-heading{background-color:  rgb(53, 160, 65);height:50px;}
+.panel-default .panel-heading h4{color:white;margin-top: 4px;}

@@ -1,0 +1,81 @@
+*{letter-spacing: 1px;}
+.input-group-addon{border:none;border-radius:unset;}
+.profile-img{height:40px;margin-bottom:10px;}
+.navbar-brand a{font-size:14px;font-weight: bold;
+font-size: 20px;text-decoration:none;color:white;}
+.panel-body{border-radius:unset;border:1px solid lightgrey;}
+.pull-right {
+	font-size: 12px;
+	color: black;
+}    
+.btn{
+	font-size:15px;
+	border-radius:unset;
+	color:white;
+}
+.btn-success{box-shadow: 0px 5px 0px 0px #007144;}
+.btn-success:hover{box-shadow: 0px 5px 0px 0px #007144;}
+.btn-default{background-color:#98231e;border-color: #98231e;box-shadow: 0px 5px 0px 0px #7d010e;}
+.btn-default:hover{color:white;background-color:#8d130e;border-color: #8d130e;box-shadow: 0px 5px 0px 0px #7d010e;}
+.btn-default:focus{color:white !important;background-color:#8d130e !important;border-color: #8d130e !important;box-shadow: 0px 5px 0px 0px #7d010e;}
+/*.btn-success:hover{background-color:#98231e;border-color: #98231e;}*/
+i{color:white;}
+.input-group-addon,.form-control{border-radius:unset!important;}
+.ForgotPasswordLink{margin-top:3px;text-decoration:none;color:#25A2B6;font-weight: bold;}
+.ForgotPasswordLink:hover{margin-top:3px;text-decoration:none;color:black;font-weight: bold;}
+.navbar-fixed-top,.navbar-fixed-bottom{
+	background-color: #25A2B6;
+	border:unset;
+}
+.input-group-addon{background-color:#25A2B6;}
+.glyphicon{color:yellow;}
+.MyLabel,#lblMessage{font-size:12px;color:black;}
+.btnSignUp{margin-top:-1px;}
+.navbar-right li a{color:white;margin-right:20px;}
+.navbar-toggle{background-color:white;}
+.icon-bar{background-color:red;}
+.NotAllowed{margin-top:3px;color:red;}
+.allowed{cursor:pointer;margin-top:3px;color:green;}
+.MyLoginDiv{border-top:2px solid lightgrey;}
+.glyphicon-remove{color:red;}
+.mycontainer{margin-top: 120px;}
+@media(max-width:370px){#lblMessage{font-size:9.4px;}.MyLoginDiv{margin-left:0px;margin-right:0px;}.profile-img{height:25px;margin-bottom:10px;}
+}
+@media(max-width:968px){.MyLoginDiv{margin-left:0px;margin-right:0px;}}
+@media(max-width:368px){.MyLoginDiv{margin-left:-10px;margin-right:-10px;}}
+#registerForm{display: none;}
+/*a,
+a:visited {
+  text-decoration: none;
+  color: #00AE68;
+}
+a.button {
+  display: block;
+  position: relative;
+  float: left;
+  width: 120px;
+  padding: 0;
+  margin: 10px 20px 10px 0;
+  font-weight: 600;
+  text-align: center;
+  line-height: 50px;
+  color: #FFF;
+  border-radius: 5px;
+  transition: all 0.2s ;
+}
+
+.btnBlueGreen {
+  background: #00AE68;
+}
+.btnBlueGreen.btnPush {
+  box-shadow: 0px 5px 0px 0px #007144;
+}
+.btnPush:hover {
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+.btnBlueGreen.btnPush:hover {
+  box-shadow: 0px 0px 0px 0px #007144;
+}
+*/

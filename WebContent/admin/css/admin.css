@@ -1,0 +1,77 @@
+*{font-family: Georgia,serif;}
+.btn{border-radius: 0px;letter-spacing: 1px;}
+.form-control{border-radius: 0px;letter-spacing: 1px;}
+.navbar-inverse{background:#25A2B6;border:none;}
+.navbar-inverse  .navbar-right li a{
+    font-size: 16px;
+    color:white;
+    font-weight: 600;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+.navbar-inverse .navbar-brand{color: white;
+    font-size: 17px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+@media(max-width: 417px){
+	.navbar-inverse .navbar-brand{font-size: 8px;}
+}
+/*navbar completed*/
+.sidenav{margin-top:50px;}
+.sidenav{padding-left: 0px;padding-right:0px;height:605px;background-color:#25A2B6;}
+@media(max-width: 768px){
+   .sidenav{height:auto;} 
+}
+.sidenav .panel-group .panel {border-radius: 0px;}
+.sidenav .panel-heading{border-radius: 0px;padding: 10px 9px;background-color:#177483;}
+.sidenav .panel-heading:hover{border-right:3px solid #98231e;}
+.sidenav .panel-heading a{letter-spacing: 2px;
+font-size: 16px;
+text-decoration: none;
+cursor: pointer;}
+.sidenav .panel-heading a:hover{color:#98231e;}
+.panel-primary{border:none;}
+/*sidenav completed*/
+.mainDiv .Firstdivofmaindiv h3{color: #9e0c0c;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-top: 9px;
+}
+.mainDiv .Firstdivofmaindiv h5{font-family: 'Niconne', cursive;}
+.mainDiv .Seconddivofmaindiv h4{margin-top: 30px;
+letter-spacing: 2px;
+font-weight: normal;font-size: 15px;color: gray;}
+.mainDiv{margin-top: 52px;}
+/*maindiv*/
+thead{background: #787872;
+color: white;}
+.newline{padding-left: 0px;padding-right: 0px;}
+.input-group-addon{border-radius: 0px;}
+label{color:#096d79;letter-spacing: 1px;margin-top: 6px;}
+.form-control::-moz-placeholder {
+    color: black;
+    font-size: 13px;
+}
+.headingrow{margin-top: 20px;margin-bottom: 20px;}
+.heading h4{color:#096d79;letter-spacing: 2px;font-weight: bold;}
+.sidenav .panel-body{background-color:  rgb(53, 160, 65);border:none;}
+.sidenav .panel-body h5 a{color:white;text-decoration: none;letter-spacing: 1px;}
+.sidenav .panel-body h5 a:hover{color:#fcac14;text-decoration: none;letter-spacing: 1px;}
+.sidenav .panel-primary > .panel-heading + .panel-collapse > .panel-body {
+    border-top-color:  rgb(53, 160, 65);
+}
+.sidenav .panel-body {
+    padding: 8px;
+}
+.modal-header{background-color: rgb(53, 160, 65);}
+.modal-title{color: white;
+letter-spacing: 2px;}
+thead,tbody{white-space: nowrap;}
+@media(min-width: 992px){
+.modal-lg { width: 1000px;}
+}
+.glyphicon-trash{color:red;cursor: pointer;}
+ .glyphicon-edit{color:rgb(53, 160, 65);cursor: pointer;}
